@@ -22,6 +22,7 @@ Soy Andrés Pisa, técnico superior en Desarrollo de Aplicaciones Multiplataform
 
 ## Despliegue
 El portfolio está desplegado en Vercel para un acceso fácil y rápido en la web.
+https://revu-pearl.vercel.app
 
 Contacto
 📞 (+34) 667 26 34 81
