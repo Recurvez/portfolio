@@ -18,3 +18,13 @@ Soy Andrés Pisa, técnico superior en Desarrollo de Aplicaciones Multiplataform
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/Recurvez/portfolio.git
+2. Abre el archivo index.html en tu navegador preferido.
+
+## Despliegue
+El portfolio está desplegado en Vercel para un acceso fácil y rápido en la web.
+
+Contacto
+📞 (+34) 667 26 34 81
+📧 andrespisasevilla@gmail.com
+
+Gracias por visitar mi portfolio. ¡Espero que te guste!
